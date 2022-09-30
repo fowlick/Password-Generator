@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: Karla;
+    background: #1F2937;
+    font-family: 'Orbitron', sans-serif;
+    color:white;
+    font-size: 20px;
+    margin:10px 30px;
+}
+
+#text{
+    color: #4ADF86
+}
+
+h4{
+    font-size:18px;
+    font-weight: normal;
+    margin:25px 0;
+    color: gray;
+}
+
+input{
+    width :65px;
+}
+
+button{
+    display: block;
+    margin: 25px auto;
+    color:white;
+    background: #10B981;
+    border-radius: 5px;
+    border:none;
+    padding:10px 10px;
+    font-size: 15px;
+}
